@@ -1,4 +1,5 @@
 # 🎯 IT Ticket Analysis 
+![image alt]()
 # [IT Ticket Analysis Drive Link](https://drive.google.com/drive/folders/1YD2kHOpOA9RCgwAgXJfdI_ZXa28Nl2CV?usp=drive_link)
 
 This repository showcases a complete data analytics project built entirely in Microsoft Excel. It explores 97,498 IT helpdesk tickets spanning five years (2016–2020) to assess service performance, monitor agent efficiency, and generate insights for continuous improvement.
@@ -98,15 +99,15 @@ Concepts Applied: Data Cleaning, Feature Engineering, Trend & Correlation Analys
   ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 # 📦 Repository Contents
 
-IT_Tickets_Analysis_Dashboard_Excel_File.xlsx → Final interactive Excel dashboard
+IT Ticket Analysis.xlsx → Final interactive Excel dashboard
 
-IT_Ticket_Analysis_PPT.pptx → Presentation summary of findings
+DOc Task.docx → Supporting documentation with analysis breakdown
 
-Task_DOC_File.docx → Supporting documentation with analysis breakdown
+Project Presentation.pptx → Presentation summary of findings
 
-Dashboard_Video.mp4 → Dashboard demo video
+Dashboard MP4.mp4 → Dashboard demo video
 
-Dashboard_Photo → Snapshot of final dashboard
+Dashboard 1,2,3,4 → Snapshot of final dashboard
   ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---
 # 👩‍💻 Author
 Vaishnavi Pandey
