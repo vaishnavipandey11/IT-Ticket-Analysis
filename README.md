@@ -1,5 +1,5 @@
 # 🎯 IT Ticket Analysis 
-![image alt]()
+![image alt](https://github.com/vaishnavipandey11/IT-Ticket-Analysis/blob/435f36e9d89729268560ff50cad64cb16c331b85/Dashboard%201.png)
 # [IT Ticket Analysis Drive Link](https://drive.google.com/drive/folders/1YD2kHOpOA9RCgwAgXJfdI_ZXa28Nl2CV?usp=drive_link)
 
 This repository showcases a complete data analytics project built entirely in Microsoft Excel. It explores 97,498 IT helpdesk tickets spanning five years (2016–2020) to assess service performance, monitor agent efficiency, and generate insights for continuous improvement.
